@@ -12,5 +12,5 @@ int main() {
 	cout << "Your salary will be " << tenyear << " in 10 years";
 	
 	system("pause > 0");
-	//return 0; this is a commentsss
+	//return 0;
 }
