@@ -27,15 +27,18 @@ int main() {
 	//********************************************************************************************
 
 
-	char n;
-	cout << "Enter charactors: ";
-	cin >> n;
-	if (n == char(111)) {
-		cout << "yes";
-	}
-	else {
-		cout << "No";
-	}
+	//char n;
+	//cout << "Enter charactors: ";
+	//cin >> n;
+	//if (n == char(111)) {
+	//	cout << "yes";
+	//}
+	//else {
+	//	cout << "No";
+	//}
+
+
+	//Analyzing the different scenarios in C++
 
 	
 	system("pause > 0");
