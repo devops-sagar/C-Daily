@@ -40,6 +40,7 @@ int main() {
 
 	//Analyzing the different scenarios in C++
 	//Giving out the tables with the code
+	//Encoding the data and code in file
 
 	
 	system("pause > 0");
